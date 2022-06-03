@@ -1,0 +1,257 @@
+* {
+  margin: 0;
+  border: 0;
+}
+body {
+  background-color: green;
+  margin: 2px;
+}
+
+.blockchain {
+  width: 100%;
+  height: 180px;
+  background-color: white;
+}
+#link {
+  background-color: white;
+}
+
+.about {
+  /* background: fixed; */
+  /* background-color: #222; */
+  outline-width: 0.2rem;
+  outline-color: green;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 2px;
+  outline-offset: -9px;
+  outline-style: solid;
+  /* padding: 20px 20px 20px; */
+  margin-left: 20px;
+  hyphens: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 1.2rem 1.5rem;
+  background-color: white;
+}
+#log {
+  text-transform: uppercase;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.contact {
+  outline: 00.2rem solid green;
+  /* padding: 20px 20px 20px; */
+  outline-offset: -9px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 2px;
+  margin-left: 20px;
+  hyphens: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 1.2rem 1.5rem;
+  background-color: white;
+}
+.comm {
+  color: white;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+table {
+  /* border-spacing: 100px; */
+}
+.co-founder {
+  /* margin-left: 25rem; */
+  justify-content: right;
+  border-radius: 50%;
+}
+
+.founder {
+  border-radius: 100%;
+  width: 25rem;
+  height: 25rem;
+  margin-left: 10rem;
+}
+#one {
+  color: white;
+  text-indent: 5rem;
+}
+.one1 {
+  margin-left: 80px;
+  background-color: none;
+  height: 4vh;
+  width: 2vw;
+  border-radius: 40%;
+  display: ruby;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+.one2 {
+  margin-left: 10px;
+  height: 4vh;
+  width: 2vw;
+  border-radius: 40%;
+  display: ruby;
+  hyphens: none;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+.one3 {
+  margin-left: 250px;
+  background-color: none;
+  height: 4vh;
+  width: 2vw;
+  border-radius: 40%;
+  display: ruby;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+.one4 {
+  margin-left: 10px;
+  height: 4vh;
+  width: 2vw;
+  border-radius: 40%;
+  display: ruby;
+  hyphens: none;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+.one5 {
+  margin-left: 250px;
+  background-color: none;
+  height: 4vh;
+  width: 2vw;
+  border-radius: 40%;
+  display: ruby;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+.one6 {
+  margin-left: 10px;
+  height: 4vh;
+  width: 2vw;
+  border-radius: 40%;
+  display: ruby;
+  hyphens: none;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+#two {
+  /* border-spacing: 100px; */
+  /* padding: 0px 10rem; */
+  color: white;
+  text-indent: 5rem;
+  margin-left: 210px;
+}
+#two1 {
+  /* border-spacing: 100px; */
+  /* padding: 0px 10rem; */
+  color: white;
+  text-indent: 0rem;
+  margin-left: 60px;
+}
+#three {
+  /* border-spacing: 25rem; */
+  /* padding: 0rem 9rem; */
+  text-indent: 5rem;
+  margin-left: 180px;
+  color: white;
+}
+.gallery {
+  color: green;
+  background-color: white;
+  font-size: 20px;
+  box-sizing: border-box;
+  display: inline-block;
+  margin-left: 25px;
+  border-radius: 1px;
+  position: fixed;
+  top: 0;
+  text-decoration: none;
+
+  right: 20px;
+}
+.seven {
+  /* border: 2px solid red; */
+  height: 35em;
+
+  /* border-bottom: red; */
+  background-color: white;
+  background-position: center;
+  position: static;
+  border-radius: 20px;
+  /* margin: 20px; */
+  float: 50%;
+
+  /* padding: 0 20px; */
+}
+
+.se {
+  width: 45vh;
+  /* height: 20px; */
+  box-sizing: border-box;
+}
+#UNNlogo {
+  width: 18vh;
+  min-height: 30px;
+  box-sizing: border-box;
+  /* float: flex; */
+  margin-left: 50px;
+}
+#h1 {
+  color: green;
+  font-size: 20px;
+  margin-left: 70px;
+  /* padding: 10px 10px ; */
+}
+ul li {
+  list-style-type: none;
+  box-sizing: border-box;
+  color: green;
+}
+
+ul li a {
+  /* float: left; */
+  text-transform: capitalize;
+  background: none;
+  background-color: none;
+  box-sizing: border-box;
+  line-height: 25px;
+  color: green;
+  font-size: 1rem;
+  height: 50px;
+  text-decoration: none;
+}
+.a {
+  width: 25px;
+  padding-bottom: 3px;
+  border-radius: 0%;
+  display: inline;
+  background-color: none;
+  margin-left: 40px;
+  hyphens: none;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+.f,
+.g,
+.h {
+  float: right;
+  background: white;
+  display: inline-flex;
+  margin-left: 20px;
+  hyphens: none;
+  text-decoration: none;
+  text-transform: capitalize;
+  padding: 1.2rem 1.5rem;
+  background-color: white;
+}
+#eight {
+  margin: 30px;
+  color: green;
+}
+#nine {
+  float: right;
+  text-decoration: none;
+  margin-right: 30px;
+}
